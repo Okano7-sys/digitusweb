@@ -53,6 +53,6 @@ top: 20px;
 }
 
 aside > * {
-  margin-bottom: 0px; /* Bileşenler arasındaki boşluğu ayarladık */
+  margin-bottom: 0px;
 }
 </style>
