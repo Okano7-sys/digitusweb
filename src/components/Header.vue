@@ -58,6 +58,6 @@
   margin-left: 15px;
   width: 35px;
   height: 35px;
-  border-radius: 50%; /* Makes the image circular */
+  border-radius: 50%;
 }
 </style>
