@@ -84,7 +84,7 @@ export default {
 }
 
 .author-details h3, .author-details p {
-  margin: 0; /* Remove default margins */
+  margin: 0; 
 }
 
 .post-image {
@@ -120,13 +120,13 @@ export default {
 .comment-section {
   display: flex;
   align-items: center;
-  background-color: #fff; /* Match the background color with the post */
+  background-color: #fff; 
 }
 
 .comment-section input {
   flex-grow: 1;
   padding: 5px;
-  background-color: #fff; /* Match the background color with the post */
+  background-color: #fff; 
   color: #000;
   margin-right: 10px;
   border: 1px solid #c2c1c1;
